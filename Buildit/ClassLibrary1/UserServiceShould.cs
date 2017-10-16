@@ -126,5 +126,10 @@ namespace Buildit.Services.TestsMsTest
         
             Assert.AreEqual(result, null);
         }
+        [TestMethod]
+        public void Test()
+        {
+
+        }
     }
 }
